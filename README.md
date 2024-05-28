@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ersinn26&style=for-the-badge&color=brightgreen)
-<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="akyarv0" width="600" height="300" /></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Veysel;Welcome+to+my+profile!;Description+of+myself%3A;I'm a software developer from Turkey;Tennis Player;Chess Lover;Pencil Drawer" alt="Typing SVG" /></a>
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="ersinn26" width="600" height="300" /></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ersin;Welcome+to+my+profile!;Description+of+myself%3A;I'm a software developer from Turkey;Tennis Player;Chess Lover;Pencil Drawer" alt="Typing SVG" /></a>
 <h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
 <img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
@@ -28,13 +28,13 @@
 </div><br/>
 <h1 align=center> Connect With Me:</h1>
 <div align=center >
-     <a href="https://https://www.linkedin.com/in/veysel-akyar//"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+     <a href="https://www.linkedin.com/in/ersin-%C3%BCnal-41275b2aa/"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
  </div>
 </br>
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyarv0&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=akyarv0&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersinn26&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ersinn26&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
 <table border="1"  align="center">
