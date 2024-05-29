@@ -49,7 +49,7 @@
    <tr>
         <td><a href="https://movie-app-ersin-h6k4vxrjg-ersins-projects-10bc7ff5.vercel.app">Movie App</a></td>
         <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
-        <td><a href="https://github.com/akyarv0/movie-app-with-React">Repo Link</a></td>
+        <td><a href="https://github.com/ersinn26/movie">Repo Link</a></td>
       </tr>
          <tr>
         <td><a href="https://product-list-akyarv0.netlify.app/">Product List App</a></td>
