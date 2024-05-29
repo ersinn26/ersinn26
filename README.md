@@ -52,18 +52,18 @@
         <td><a href="https://github.com/ersinn26/movie">Repo Link</a></td>
       </tr>
          <tr>
-        <td><a href="https://product-list-akyarv0.netlify.app/">Product List App</a></td>
-        <td> React - useState - useEffect - useContext - axios - async/await </td>
-        <td><a href="https://github.com/akyarv0/product-list">Repo Link</a></td>
+        <td><a href="https://stock-admin-ersin-a4s61ixuf-ersins-projects-10bc7ff5.vercel.app">Stock Admin</a></td>
+        <td> React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Context API - React-icons - Mui </td>
+        <td><a href="https://github.com/ersinn26/stock-admin">Repo Link</a></td>
       </tr><tr style="margin: auto;">
-        <td><a href="https://exchange-app-puce.vercel.app/">Exchange App</a></td>
+        <td><a href="https://shopping-list-cwij15384-ersins-projects-10bc7ff5.vercel.app">Shopping List</a></td>
         <td>React-useState-useEffect-Axios-RestAPI </td>
-        <td><a href="https://github.com/akyarv0/exchange-app">Repo Link</a></td>
+        <td><a href="https://github.com/ersinn26/shopping-list">Repo Link</a></td>
       </tr>
       <tr style="margin: auto;">
-        <td><a href="https://nba-legends-akyarv0.netlify.app/">NBA Legends</a></td>
+        <td><a href="https://rc07-qm07jn3ci-ersins-projects-10bc7ff5.vercel.app">NBA Legends</a></td>
         <td>React - useState - useEffect - useRef</td>
-        <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
+        <td><a href="https://github.com/ersinn26/rc07">Repo Link</a></td>
       </tr>
         <tr style="margin: auto;">
         <td><a href="https://usecontext-akyarv0.netlify.app/">useContext Work Page</a></td>
